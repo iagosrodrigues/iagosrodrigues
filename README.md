@@ -30,4 +30,6 @@ Also...
 
 Elastic Search, RabbitMQ, Prometheus.
 
+My blog ➜ https://iagosousa.com
+
 [![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagosrodrigues)](https://github.com/iagosrodrigues)
