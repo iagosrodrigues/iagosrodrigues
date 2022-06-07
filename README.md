@@ -32,9 +32,9 @@ Elastic Search, RabbitMQ, Prometheus.
 
 My blog ➜ https://iagosousa.com
 
-<a href="https://github.com/iagosrodrigues">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iagosrodrigues&showicons=true" />
-</a>
-<a href="https://github.com/iagosrodrigues">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagosrodrigues&layout=compact" />
-</a>
+<div>
+  <a href="https://github.com/iagosrodrigues">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagosrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagosrodrigues&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div
