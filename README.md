@@ -1,6 +1,6 @@
 ### Hi there, my name is Iago /ˈjaɣʊ/ (brazilian portuguese) 👋
 
-I'm a software engineer, 26y, and graduating in computer science. I really appreciate functional programming and data structures.
+I'm a software engineer and SRE, 28y, and graduating in computer science. I really appreciate functional programming and security.
 
 I'm always learning new technologies, and for now I'm just playing around with elixir and rust.
 
@@ -29,8 +29,6 @@ Here is the stack that I know at least a little bit.
 Also...
 
 Elastic Search, RabbitMQ, Prometheus.
-
-My blog ➜ https://iagosousa.com
 
 <div>
   <a href="https://github.com/iagosrodrigues">
