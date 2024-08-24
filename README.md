@@ -1,11 +1,10 @@
 ### Hi there, my name is Iago /ˈjaɣʊ/ (brazilian portuguese) 👋
 
-I'm a software engineer and SRE, 28y, and graduating in computer science. I really appreciate functional programming and security.
+I'm a software engineer with experience in SRE, currently working in DevSecOps. I'm 30 years old and graduating in computer science. I really appreciate functional programming and security.
 
 I'm always learning new technologies, and for now I'm just playing around with elixir and rust.
 
-Here is the stack that I know at least a little bit.
-
+Here is the stack that I know at least a little bit:
 
 &nbsp;
 <img title="Node.JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="64" />
@@ -35,4 +34,4 @@ Elastic Search, RabbitMQ, Prometheus.
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagosrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagosrodrigues&layout=compact&langs_count=7&theme=dark"/>
   </a>
-</div
+</div>
